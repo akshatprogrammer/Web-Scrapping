@@ -7,7 +7,7 @@ Websites can contain a very large amount of invaluable data stock, prices and pr
 details. </br>
 If you wanted to access this information you either have to use whatever format the website uses or copy and paste the information manually into a new document.</br>
 This can be pretty tedious when you want to extract a lot of information from a website here's where web scraping can help. </br>
-
+![](https://i.imgur.com/6zM7JBq.png)
 
 ## Definition
 Scraping simply refers to the extraction of data from a website.</br>
