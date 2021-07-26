@@ -13,3 +13,10 @@ Scraping simply refers to the extraction of data from a website.</br>
 This information is collected and then export into a format that is more useful to the user.</br>
 <b>For example</b>: You can use web scraping to export a list of product names and prices from Amazon onto an Excel spreadsheet. </br>
 
+## Step 1: Install Libraries Required
+1. pip install requests
+2. pip install html5lib
+3. pip install bs4
+
+## Step 2: Accessing the HTML contents
+[click here](https://github.com/akshatprogrammer/Web-Scrapping/blob/main/webScrap1.py)
