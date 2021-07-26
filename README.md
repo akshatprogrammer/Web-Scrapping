@@ -23,3 +23,6 @@ This information is collected and then export into a format that is more useful 
 
 ## Step 3: Parsing the HTML contens
 [click here](https://github.com/akshatprogrammer/Web-Scrapping/blob/main/webScrap2.py)
+
+## Step 3: Searching and Navigating through a Parse Tree
+[click here](https://github.com/akshatprogrammer/Web-Scrapping/blob/main/webScrap3.py)
