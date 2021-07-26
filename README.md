@@ -17,11 +17,7 @@ This information is collected and then export into a format that is more useful 
 ## Step 1: Install Libraries Required
 1. pip install requests
 2. pip install html5lib
-3. pip install bs4</br>
-| No.1   | No.2   | No.3 |
-|--------|--------|------|
-|requests|html5lib|  bs4 |
-
+3. pip install bs4
 
 ## Step 2: Accessing the HTML contents
 [click here](https://github.com/akshatprogrammer/Web-Scrapping/blob/main/webScrap1.py)
@@ -31,3 +27,19 @@ This information is collected and then export into a format that is more useful 
 
 ## Step 3: Searching and Navigating through a Parse Tree
 [click here](https://github.com/akshatprogrammer/Web-Scrapping/blob/main/webScrap3.py)
+
+# Connect With Me
+LinkedIn : https://www.linkedin.com/in/akshatjaingeu/<br/>
+Email : akshat.kodia@gmail.com<br/>
+Twitter : www.twitter.com/akki_aj89<br/>
+Website : https://akshatprogrammer.github.io/portfolio/</br>
+
+# Personal
+Name : Akshat Jain<br/>
+University : Graphic Era University, Dehradun(UK)
+
+If any problem with this program reach me at Telegram<br/>
+Here is the link -> https://t.me/akki_aj89
+
+# Gratitude
+Thank You, if you like it please leave a Star.
