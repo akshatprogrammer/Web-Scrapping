@@ -1,4 +1,5 @@
 # Web-Scrapping
+![img](https://www.google.com/url?sa=i&url=https%3A%2F%2Froboticsandautomationnews.com%2F2020%2F04%2F06%2Fessential-legal-issues-associated-with-web-scraping%2F31501%2F&psig=AOvVaw3h-2hHb1Gp089REFZgjMQk&ust=1627385529391000&source=images&cd=vfe&ved=0CAcQjRxqFwoTCJjp2_HRgPICFQAAAAAdAAAAABAD)</br>
 This is a quick introduction to WebScrapping.
 
 ## What is Web Scrapping?
