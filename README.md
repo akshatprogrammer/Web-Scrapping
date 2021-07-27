@@ -28,6 +28,12 @@ This information is collected and then export into a format that is more useful 
 ## Step 3: Searching and Navigating through a Parse Tree
 [click here](https://github.com/akshatprogrammer/Web-Scrapping/blob/main/webScrap3.py)
 
+## Project 1: Cowin Notifier
+![](https://cdn.dnaindia.com/sites/default/files/styles/full/public/2021/06/26/981937-cowin.jpg)</br>
+Cowin Notifier is the most simple and intuitive way to search for available vaccine slots in India. Simple create a new search preference and the app will look for available slots with the given preference. You can add multiple search preferences for family and friends.</br>
+[Click here for the Project](https://github.com/akshatprogrammer/Web-Scrapping/blob/main/Cowin_Notifier/Cowin_Notifier.py)
+
+<b>This Project is Contributed by Anjali Pathak and Akshat Jain<b>
 # Connect With Me
 LinkedIn : https://www.linkedin.com/in/akshatjaingeu/<br/>
 Email : akshat.kodia@gmail.com<br/>
