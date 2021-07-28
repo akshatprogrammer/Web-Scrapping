@@ -36,7 +36,7 @@ Cowin Notifier is the most simple and intuitive way to search for available vacc
 
 ## Contributors
 <a href = "https://github.com/akshatprogrammer/Web-Scrapping/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo = akshatprogrammer/Web-Scrapping"/>
+  <img src = "https://contrib.rocks/image?repo=akshatprogrammer/Web-Scrapping"/>
 </a>
 
 # Connect With Me
